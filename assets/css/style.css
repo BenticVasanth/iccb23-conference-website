@@ -47,7 +47,7 @@ html {
     color: #8f1bdc;
 }
 
-.boxed-btn {
+iccb3.png {
     background: #8f1bdc;
     color: #fff !important;
     display: inline-block;
@@ -64,17 +64,17 @@ html {
     cursor: pointer;
 }
 
-    .boxed-btn:hover {
+    iccb3.png:hover {
         background: #fff;
         color: #8f1bdc !important;
         border: 1px solid #8f1bdc;
     }
 
-    .boxed-btn:focus {
+    iccb3.png:focus {
         outline: none;
     }
 
-    .boxed-btn.large-width {
+    iccb3.png.large-width {
         width: 220px;
     }
 
@@ -3933,7 +3933,7 @@ hr {
     margin-bottom: 46px;
 }
 
-.popup_box .boxed-btn3 {
+.popup_box iccb3.png3 {
     width: 100%;
     text-transform: capitalize;
 }
