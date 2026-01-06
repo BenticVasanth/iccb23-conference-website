@@ -17,3 +17,7 @@ A responsive conference website developed for the International Conference on Ca
 ## Purpose
 Designed to provide conference information, schedules, and registration details
 with a user-friendly and professional interface.
+
+![Demo of Main Page](screenshot/home.png)
+
+![Demo of About Page](screenshot/about.png)
